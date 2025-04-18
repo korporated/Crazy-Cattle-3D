@@ -1,5 +1,5 @@
 # Crazy Cattle 3D Project
-## **Please reach out to me if your the owner of Crazy Cattle 3D and would like to have this taken down (DM @k4xc on Discord.)
+## Please reach out to me if your the owner of Crazy Cattle 3D and would like to have this taken down (DM @k4xc on Discord.)
 
 This repository contains the extracted project files for **Crazy Cattle 3D**. It is intended for **research purposes**, to explore the development of the game and its assets, as well as to modify or further build on it. The project is built using **Godot 4.4.1 Stable**.
 
