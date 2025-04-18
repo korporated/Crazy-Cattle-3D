@@ -18,8 +18,7 @@ This repository contains the extracted project files for **Crazy Cattle 3D**. It
 
 ## Info
 
-This repository includes the full project files for **Crazy Cattle 3D**,made with **Godot 4.4.1 Stable**. This project is provided for **research** and **exploration** into the game's development, mechanics, assets, and overall structure.
-
+This repository includes the full project files for **Crazy Cattle 3D**
 It is playable, but not to the point without some more fixing.
 
 ---
@@ -28,7 +27,7 @@ It is playable, but not to the point without some more fixing.
 
 Before opening and exploring the project, make sure you have the following:
 
-**Godot 4.4.1 Stable**: Download and install the [Godot Engine 4.4.1 Stable]([https://godotengine.org/download](https://github.com/godotengine/godot-builds/releases/tag/4.4.1-stable)) version 4.4.1 Stable. This is the version used to develop the project, and it may not be fully compatible with earlier or later versions of Godot.
+**Godot 4.4.1 Stable**: Download and install the [Godot Engine 4.4.1 Stable](https://github.com/godotengine/godot-builds/releases/tag/4.4.1-stable) This is the version used to develop the project, and it may not be fully compatible with earlier or later versions of Godot.
 
 
 ## Credits
