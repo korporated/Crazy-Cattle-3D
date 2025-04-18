@@ -10,8 +10,6 @@ This repository contains the extracted project files for **Crazy Cattle 3D**. It
 
 - [Project Overview](#project-overview)
   - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-  - [Opening the Project](#opening-the-project)
 - [Credits](#credits)
 
 ---
